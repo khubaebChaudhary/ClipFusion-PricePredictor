@@ -39,8 +39,6 @@ It leverages **CLIP ViT-B/16** embeddings with a **Deep Fusion Regressor** that 
 | **Hardware Used** | RTX 3050 (4GB VRAM) + 22GB RAM |
 | **Dataset** | 75K text–image–tabular samples |
 
-📉 Training curves and bin-wise SMAPE visualizations are saved under `artifacts/`.
-
 ---
 
 ## ⚙️ Installation & Setup
