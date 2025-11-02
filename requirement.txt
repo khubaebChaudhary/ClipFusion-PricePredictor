@@ -1,0 +1,11 @@
+torch==2.4.0
+torchvision
+sentence-transformers==3.0.0
+numpy
+pandas
+tqdm
+Pillow
+matplotlib
+scikit-learn
+lightgbm
+requests
